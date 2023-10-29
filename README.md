@@ -10,7 +10,7 @@ Bem-vindo ao meu portfólio, onde você pode conhecer mais sobre mim, meu trabal
 
 ## Meu Trabalho 🛠️
 
-Meu portfólio inclui projetos de desenvolvimento de software com o [Site Completlar, Sua Casa, Seu Estilo](https://github.com/EtecZl/IBM-SITE) e minhas certificações dos cursos que concluí na plataforma SkillsBuild. Sinta-se à vontade para explorar meus repositórios e ver exemplos do meu trabalho.
+Meu portfólio inclui projetos de desenvolvimento de software com o [Site Completlar, Sua Casa, Seu Estilo](https://github.com/EtecZl/IBM-SITE) e minhas certificações dos cursos que concluí na plataforma SkillsBuild. Sinta-se à vontade para explorar esse repositótio e ver exemplo do meu trabalho.
 
 ### Projeto Backend IBM
 
@@ -24,4 +24,4 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 
 ## Obrigado pela Visita! 👏
 
-Obrigado por conferir o meu portfólio. Mal posso esperar para conhecer você e trabalhar juntos em projetos emocionantes. Vamos fazer grandes coisas! 😊🚀🎓
+
