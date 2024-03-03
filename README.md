@@ -10,11 +10,11 @@ Bem-vindo ao meu portfólio, onde você pode conhecer mais sobre mim, meu trabal
 
 ## Meu Trabalho 🛠️
 
-Meu portfólio inclui projetos de desenvolvimento de software com o [Site Completlar, Sua Casa, Seu Estilo](https://github.com/EtecZl/IBM-SITE) e minhas certificações dos cursos que concluí na plataforma SkillsBuild. Sinta-se à vontade para explorar esse repositótio e ver exemplo do meu trabalho.
+Meu portfólio inclui projetos de desenvolvimento de software com o [Site Completlar, Sua Casa, Seu Estilo](https://github.com/GabrielMessiasdaSilva/COMPLETLAR-WEBSITE) e minhas certificações dos cursos que concluí na plataforma SkillsBuild. Sinta-se à vontade para explorar esse repositótio e ver exemplo do meu trabalho.
 
 ### Projeto Backend IBM
 
-- [Site CompletLar, Sua Casa, Seu Estilo](https://github.com/EtecZl/IBM-SITE)
+- [Site CompletLar, Sua Casa, Seu Estilo](https://github.com/GabrielMessiasdaSilva/COMPLETLAR-WEBSITE)
 
 Essas são algumas das minhas certificações que comprovam o meu compromisso com a excelência e o aprendizado contínuo.
 
